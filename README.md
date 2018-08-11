@@ -31,7 +31,7 @@ Ubuntu: Latest Swift 4.2 libraries (https://swift.org/download/).
 
 1. Download the Swift 4.2 package according to your Ubuntu version
 2. Unpack the package.
-3. In the unpacked the package, the library files (\*.so) can be found in "/usr/lib/swift/linux"
+3. In the unpacked package, the library files (\*.so) can be found in "/usr/lib/swift/linux"
 4. Copy them to /usr/lib or other shared library folders. Alternatively, define your own shared library folder for those files.
 
 ## SHA256
