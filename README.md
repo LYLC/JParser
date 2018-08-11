@@ -34,6 +34,10 @@ Ubuntu: Latest Swift 4.2 libraries (https://swift.org/download/).
 3. In the unpacked the package, the library files (\*.so) can be found in "/usr/lib/swift/linux"
 4. Copy them to /usr/lib or other shared library folders. Alternatively, define your own shared library folder for those files.
 
+## SHA256
+61506b4823bf35dde1f10fdf377038f5a55cc0ebf1dc767d6463e6a1759f9787  jparser-0.3.0-macOS.zip
+e5e4f694cb4f8450d53fea496ca86ac5a7573b22c781e70a75cb110dd92c4a26  jparser-0.3.0-Ubuntu-x64.zip
+
 ## Notes
 * Currently, this tool only supports UTC.  
 * The date format is yyyy-mm-dd.
